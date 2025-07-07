@@ -2,4 +2,5 @@
 int main()
 	printf("my name is tarun v\n"):
 	printf("btech cse\n"):
+	printf("amity university"\n"):
 return 0;	
