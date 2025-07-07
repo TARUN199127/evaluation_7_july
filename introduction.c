@@ -5,4 +5,6 @@ int main()
 	printf("amity university"\n"):
 	printf("karnataka\n"):
 	printf("pal pal dinne\n):
+	printf("bengalure\n"):
+	printf("ghati\n"):
 return 0;	
